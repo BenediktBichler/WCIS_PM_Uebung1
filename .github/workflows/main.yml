@@ -14,3 +14,6 @@ jobs:
         server: ${{ secrets.server }}
         username: ${{ secrets.username }}
         password: ${{ secrets.password }}
+        server-dir: html/bichler/
+        local-dir: "C:\Users\benib\OneDrive\Desktop\WebsiteContent"
+        protocol: ftps
